@@ -1,0 +1,12 @@
+# Ignore Python cache and temp files
+__pycache__/
+*.pyc
+
+# Ignore data output and local state
+*.db
+*.sqlite3
+*.log
+.env
+
+# macOS
+.DS_Store
